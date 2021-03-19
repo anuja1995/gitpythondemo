@@ -1,0 +1,191 @@
+WARNING:root:this is warning msg-30
+ERROR:root:this is error msg-40
+CRITICAL:root:this is critical msg-50
+INFO:root:this is info msg-20
+WARNING:root:this is warning msg-30
+ERROR:root:this is error msg-40
+CRITICAL:root:this is critical msg-50
+2021-03-15 19:35:13,100 - root - INFO - this is info msg-20
+2021-03-15 19:35:13,124 - root - WARNING - this is warning msg-30
+2021-03-15 19:35:13,124 - root - ERROR - this is error msg-40
+2021-03-15 19:35:13,124 - root - CRITICAL - this is critical msg-50
+2021-03-16 13:33:34,191 - root - INFO - 
+            create table product_info(
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30)
+            primary_key(prod_id)
+            )
+
+2021-03-16 13:33:34,191 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 13:36:26,655 - root - INFO - 
+            create table product_info(
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30)
+            primary_key(prod_id)
+            )
+
+2021-03-16 13:36:26,663 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 13:39:41,887 - root - INFO - 
+            create table product_info(
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+            )
+
+2021-03-16 13:39:41,887 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 13:53:59,628 - root - INFO - 
+            create table product_info(
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+            )
+
+2021-03-16 13:53:59,628 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 13:59:53,219 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 14:07:09,193 - root - INFO - 
+            create table product_info(
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+            )
+
+2021-03-16 14:07:09,234 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 14:09:18,900 - root - INFO - 
+            create table product_info(
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+            )
+
+2021-03-16 14:09:18,900 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 14:10:57,155 - root - INFO - 
+            create table product_info(
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+            )
+
+2021-03-16 14:10:57,155 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 14:11:35,340 - root - INFO - 
+        create table product_info (
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+        )
+
+2021-03-16 14:11:35,340 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 14:18:12,761 - root - INFO - 
+        create table product_info (
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+        )
+
+2021-03-16 14:18:12,761 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 14:19:13,747 - root - INFO - 
+        create table product_info (
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+        )
+
+2021-03-16 14:19:13,747 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 14:19:42,609 - root - INFO - 
+        create table product_info (
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+        )
+
+2021-03-16 14:19:42,609 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 14:21:04,915 - root - INFO - 
+        create table product_info (
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+        )
+
+2021-03-16 14:21:04,915 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 14:21:20,046 - root - INFO - 
+        create table product_info (
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+        )
+
+2021-03-16 14:21:20,046 - root - ERROR - ("'NoneType' object has no attribute 'cursor'",)
+2021-03-16 14:36:54,975 - root - INFO - 
+        create table product_info (
+            prod_id int,
+            prod_name varchar(30),
+            prod_qty int,
+            prod_price float,
+            prod_ven varchar(30),
+            primary key(prod_id)
+        )
+
+2021-03-16 14:44:56,875 - root - INFO - inside add product method
+2021-03-16 14:48:16,302 - root - INFO - inside add product method
+2021-03-16 14:50:05,998 - root - INFO - inside add product method
+2021-03-16 14:52:09,072 - root - INFO - inside add product method
+2021-03-16 14:53:49,790 - root - INFO - inside add product method
+2021-03-16 14:55:47,786 - root - INFO - inside add product method
+2021-03-16 14:57:37,027 - root - INFO - inside add product method
+2021-03-16 14:57:37,027 - root - INFO - inside get product
+2021-03-16 14:57:37,027 - root - INFO - SELECT * FROM PRODUCT_INFO WHERE PROD_ID =101
+2021-03-16 14:57:37,043 - root - ERROR - ("'Product' object has no attribute 'prodVen'",)
+2021-03-16 14:59:40,064 - root - INFO - inside add product method
+2021-03-16 14:59:40,070 - root - INFO - inside get product
+2021-03-16 14:59:40,070 - root - INFO - SELECT * FROM PRODUCT_INFO WHERE PROD_ID =101
+2021-03-16 14:59:40,086 - root - INFO - INSERT INTO PRODUCT_INFO VALUES(101,'aaa',30,25552.25,'Flip')
+2021-03-16 15:00:03,200 - root - INFO - inside add product method
+2021-03-16 15:00:03,215 - root - INFO - inside get product
+2021-03-16 15:00:03,215 - root - INFO - SELECT * FROM PRODUCT_INFO WHERE PROD_ID =101
+2021-03-16 15:00:03,231 - root - WARNING - product with given id is already present
+m1- 11 - 2021-03-16 22:45:19,188 1615914919.188972 -productservice- root - INFO - this is info msg-20
+m1- 13 - 2021-03-16 22:45:19,204 1615914919.204596 -productservice- root - WARNING - this is warning msg-30
+m1- 14 - 2021-03-16 22:45:19,204 1615914919.204596 -productservice- root - ERROR - this is error msg-40
+m1- 15 - 2021-03-16 22:45:19,204 1615914919.204596 -productservice- root - CRITICAL - this is critical msg-50
+add_product- 26 - 2021-03-17 14:28:10,663 1615971490.663943 -productservice- root - INFO - inside add product method
+get_product- 70 - 2021-03-17 14:28:10,815 1615971490.815883 -productservice- root - INFO - inside get product
+get_product- 74 - 2021-03-17 14:28:10,815 1615971490.815883 -productservice- root - INFO - SELECT * FROM PRODUCT_INFO WHERE PROD_ID =101
+add_product- 30 - 2021-03-17 14:28:10,826 1615971490.826170 -productservice- root - WARNING - product with given id is already present

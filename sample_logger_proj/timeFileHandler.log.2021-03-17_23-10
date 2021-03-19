@@ -1,0 +1,30 @@
+2021-03-17 23:10:02,885 - __main__ - INFO - Iteration No :29
+2021-03-17 23:10:02,885 - __main__ - INFO - this is info msg-20
+2021-03-17 23:10:02,885 - __main__ - WARNING - this is warning msg-30
+2021-03-17 23:10:02,885 - __main__ - ERROR - this is error msg-40
+2021-03-17 23:10:02,885 - __main__ - CRITICAL - this is critical msg-50
+2021-03-17 23:10:04,892 - __main__ - INFO - Iteration No :30
+2021-03-17 23:10:04,892 - __main__ - INFO - this is info msg-20
+2021-03-17 23:10:04,892 - __main__ - WARNING - this is warning msg-30
+2021-03-17 23:10:04,892 - __main__ - ERROR - this is error msg-40
+2021-03-17 23:10:04,892 - __main__ - CRITICAL - this is critical msg-50
+2021-03-17 23:10:06,900 - __main__ - INFO - Iteration No :31
+2021-03-17 23:10:06,900 - __main__ - INFO - this is info msg-20
+2021-03-17 23:10:06,900 - __main__ - WARNING - this is warning msg-30
+2021-03-17 23:10:06,900 - __main__ - ERROR - this is error msg-40
+2021-03-17 23:10:06,900 - __main__ - CRITICAL - this is critical msg-50
+2021-03-17 23:10:08,919 - __main__ - INFO - Iteration No :32
+2021-03-17 23:10:08,919 - __main__ - INFO - this is info msg-20
+2021-03-17 23:10:08,919 - __main__ - WARNING - this is warning msg-30
+2021-03-17 23:10:08,919 - __main__ - ERROR - this is error msg-40
+2021-03-17 23:10:08,919 - __main__ - CRITICAL - this is critical msg-50
+2021-03-17 23:10:10,923 - __main__ - INFO - Iteration No :33
+2021-03-17 23:10:10,923 - __main__ - INFO - this is info msg-20
+2021-03-17 23:10:10,923 - __main__ - WARNING - this is warning msg-30
+2021-03-17 23:10:10,923 - __main__ - ERROR - this is error msg-40
+2021-03-17 23:10:10,923 - __main__ - CRITICAL - this is critical msg-50
+2021-03-17 23:10:12,929 - __main__ - INFO - Iteration No :34
+2021-03-17 23:10:12,929 - __main__ - INFO - this is info msg-20
+2021-03-17 23:10:12,929 - __main__ - WARNING - this is warning msg-30
+2021-03-17 23:10:12,929 - __main__ - ERROR - this is error msg-40
+2021-03-17 23:10:12,929 - __main__ - CRITICAL - this is critical msg-50

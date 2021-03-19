@@ -1,0 +1,24 @@
+2021-03-18 00:44:44,432 - __main__ - INFO - this is info msg-20 - 41 - function_one
+2021-03-18 00:44:44,548 - __main__ - WARNING - this is warning msg-30 - 43 - function_one
+2021-03-18 00:44:44,833 - __main__ - ERROR - this is error msg-40 - 44 - function_one
+2021-03-18 00:44:45,018 - __main__ - CRITICAL - this is critical msg-50 - 45 - function_one
+2021-03-18 00:44:47,311 - __main__ - INFO - Iteration No :0 - 47 - function_one
+2021-03-18 00:44:47,374 - __main__ - INFO - this is info msg-20 - 41 - function_one
+2021-03-18 00:44:47,496 - __main__ - WARNING - this is warning msg-30 - 43 - function_one
+2021-03-18 00:44:47,559 - __main__ - ERROR - this is error msg-40 - 44 - function_one
+2021-03-18 00:44:47,728 - __main__ - CRITICAL - this is critical msg-50 - 45 - function_one
+2021-03-18 00:44:49,897 - __main__ - INFO - Iteration No :1 - 47 - function_one
+2021-03-18 00:44:50,036 - __main__ - INFO - this is info msg-20 - 41 - function_one
+2021-03-18 00:44:50,167 - __main__ - WARNING - this is warning msg-30 - 43 - function_one
+2021-03-18 00:44:50,267 - __main__ - ERROR - this is error msg-40 - 44 - function_one
+2021-03-18 00:44:50,383 - __main__ - CRITICAL - this is critical msg-50 - 45 - function_one
+2021-03-18 00:44:52,829 - __main__ - INFO - Iteration No :2 - 47 - function_one
+2021-03-18 00:44:52,977 - __main__ - INFO - this is info msg-20 - 41 - function_one
+2021-03-18 00:44:53,162 - __main__ - WARNING - this is warning msg-30 - 43 - function_one
+2021-03-18 00:44:53,362 - __main__ - ERROR - this is error msg-40 - 44 - function_one
+2021-03-18 00:44:53,489 - __main__ - CRITICAL - this is critical msg-50 - 45 - function_one
+2021-03-18 00:44:55,579 - __main__ - INFO - Iteration No :3 - 47 - function_one
+2021-03-18 00:44:55,648 - __main__ - INFO - this is info msg-20 - 41 - function_one
+2021-03-18 00:44:55,717 - __main__ - WARNING - this is warning msg-30 - 43 - function_one
+2021-03-18 00:44:55,864 - __main__ - ERROR - this is error msg-40 - 44 - function_one
+2021-03-18 00:44:56,212 - __main__ - CRITICAL - this is critical msg-50 - 45 - function_one

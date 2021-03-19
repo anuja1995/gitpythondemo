@@ -1,0 +1,4 @@
+2021-03-17 23:07:59,214 - __main__ - INFO - this is info msg-20
+2021-03-17 23:07:59,336 - __main__ - WARNING - this is warning msg-30
+2021-03-17 23:07:59,336 - __main__ - ERROR - this is error msg-40
+2021-03-17 23:07:59,336 - __main__ - CRITICAL - this is critical msg-50

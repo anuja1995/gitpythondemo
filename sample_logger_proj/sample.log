@@ -1,0 +1,12 @@
+function_one- 8 - 2021-03-17 14:46:27,500 1615972587.500253 -logging_concepts- root - INFO - this is info msg-20
+function_one- 10 - 2021-03-17 14:46:27,538 1615972587.538099 -logging_concepts- root - WARNING - this is warning msg-30
+function_one- 11 - 2021-03-17 14:46:27,538 1615972587.538099 -logging_concepts- root - ERROR - this is error msg-40
+function_one- 12 - 2021-03-17 14:46:27,538 1615972587.538099 -logging_concepts- root - CRITICAL - this is critical msg-50
+function_one- 8 - 2021-03-17 14:46:31,468 1615972591.468345 -logging_concepts- root - INFO - this is info msg-20
+function_one- 10 - 2021-03-17 14:46:31,468 1615972591.468345 -logging_concepts- root - WARNING - this is warning msg-30
+function_one- 11 - 2021-03-17 14:46:31,468 1615972591.468345 -logging_concepts- root - ERROR - this is error msg-40
+function_one- 12 - 2021-03-17 14:46:31,468 1615972591.468345 -logging_concepts- root - CRITICAL - this is critical msg-50
+function_one- 8 - 2021-03-17 14:46:37,573 1615972597.573907 -logging_concepts- root - INFO - this is info msg-20
+function_one- 10 - 2021-03-17 14:46:37,573 1615972597.573907 -logging_concepts- root - WARNING - this is warning msg-30
+function_one- 11 - 2021-03-17 14:46:37,573 1615972597.573907 -logging_concepts- root - ERROR - this is error msg-40
+function_one- 12 - 2021-03-17 14:46:37,573 1615972597.573907 -logging_concepts- root - CRITICAL - this is critical msg-50
